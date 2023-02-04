@@ -17,6 +17,7 @@ Hi there 👋 I'm Sonal Dhanetwal Rai 😊
   
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sonalfirst19/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sonalfirst19/0" alt="Recent Article 0">
 
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sonalfirst19/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sonalfirst19/1" alt="Recent Article 1">
 
 📫 How to reach me:
 ##  LinkedIn: https://www.linkedin.com/in/sonal-dhanetwal-6b577b1a/
