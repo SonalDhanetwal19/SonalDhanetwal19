@@ -17,4 +17,5 @@ Hi there 👋 I'm Sonal Dhanetwal Rai 😊
 
 📫 How to reach me:
 ##  LinkedIn: https://www.linkedin.com/in/sonal-dhanetwal-6b577b1a/
+![<LLinkedIN>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 ##  Medium: https://medium.com/@sonalfirst19/
