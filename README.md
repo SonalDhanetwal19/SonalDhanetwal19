@@ -16,5 +16,5 @@ Hi there 👋 I'm Sonal Dhanetwal Rai 😊
 https://medium.com/@sonalfirst19/health-check-aggregator-to-monitor-downstream-services-in-microservice-architecture-783190edcdec
 
 📫 How to reach me:
-# LinkedIn: https://www.linkedin.com/in/sonal-dhanetwal-6b577b1a/
-# Medium: https://medium.com/@sonalfirst19/
+#LinkedIn: https://www.linkedin.com/in/sonal-dhanetwal-6b577b1a/
+#Medium: https://medium.com/@sonalfirst19/
