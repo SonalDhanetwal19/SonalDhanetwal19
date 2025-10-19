@@ -1,7 +1,7 @@
 Hi there 👋 I'm Sonal Dhanetwal Rai 😊
 
 ♦︎ I'm a Technical Architect, Principal Engineer, Technical Manager, Scrum certified Practitioner, technically advanced Full Stack Developer and Cloud Practitioner!
-
+Java Architect with hands-on experience in designing and building enterprise applications, optimizing system performance, and ensuring scalability. Strong command over Java, Spring Framework, Microservices, and RESTful APIs. Skilled in mentoring development teams, conducting code reviews, and maintaining architectural integrity across large-scale projects.
 💻 Strong experience with RESTful API design, Aspect oriented programming, Angular and monitoring and observability of applications using AWS Cloud.
 
 ⚜️ My expertise include creating high level and low level design for migration of monolithic applications to microservices architecture.
