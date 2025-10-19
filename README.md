@@ -1,6 +1,6 @@
 Hi there 👋 I'm Sonal Dhanetwal Rai 😊
 
-♦︎ I'm a Technical Manager, Scrum certified Practitioner, technically advanced Full Stack Developer and Cloud Practitioner!
+♦︎ I'm a Technical Architect, Principal Engineer, Technical Manager, Scrum certified Practitioner, technically advanced Full Stack Developer and Cloud Practitioner!
 
 💻 Strong experience with RESTful API design, Aspect oriented programming, Angular and monitoring and observability of applications using AWS Cloud.
 
